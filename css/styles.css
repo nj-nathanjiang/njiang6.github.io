@@ -1,0 +1,85 @@
+.title-section {
+    height: 100%;
+    text-align: center;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #fcecdd;
+}
+
+.title {
+    font-family: "Dancing Script", sans-serif;
+    margin-top: 20%;
+    font-size: 400%;
+}
+
+.down-arrow {
+    margin-top: 17.5%;
+    bottom: 100px;
+}
+
+.up-arrow {
+    top: 100px;
+}
+
+.contact-info-section {
+    height: 100%;
+    text-align: center;
+}
+
+.empty-container-up {
+    height: 100px
+}
+
+.contact-title {
+    margin-top: 13.5%;
+    font-family: "Dancing Script", sans-serif;
+    font-size: 400%
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+
+.contacts {
+    font-size: 300%;
+}
+
+.fa-github {
+    color: #000000;
+}
+
+.abilities-down-arrow {
+    margin-left: 49.125%;
+    margin-bottom: 0.25%;
+    position: fixed;
+}
+
+.abilities-title {
+    margin-top: 13.5%;
+    font-family: "Dancing Script", sans-serif;
+    font-size: 400%
+}
+
+.python-image {
+    height: 5%;
+}
+
+p {
+    font-size: 150%;
+    font-family: Neuton, serif;
+}
+
+.abilities {
+    font-family: "Neuton", serif;
+}
+
+.title-description-description {
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+h3 {
+    font-size: large;
+}
